@@ -1,0 +1,11 @@
+# Power 9 processors with IBM compilers
+
+# Intel
+CC=mpicc
+CFLAGS="-g -O3 -qtune=pwr9 -qarch=pwr9 -qhot"
+LDFLAGS="-g"
+
+AR=
+STRIP=
+
+LIBS=

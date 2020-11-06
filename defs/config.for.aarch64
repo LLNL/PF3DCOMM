@@ -1,0 +1,16 @@
+# ARM_64 processors with gcc and clang compilers
+
+# Clang
+CC=mpicc
+CFLAGS="-g -O2"
+LDFLAGS="-g -O2"
+
+# gcc
+#CC=mpicc
+#CFLAGS=-O
+#LDFLAGS=-O
+
+AR=
+STRIP=
+
+LIBS=

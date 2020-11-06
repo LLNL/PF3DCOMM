@@ -1,0 +1,10 @@
+# default configuration
+
+CC=
+AR=
+STRIP=
+
+CFLAGS=
+LDFLAGS=
+
+LIBS=
